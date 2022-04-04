@@ -1,0 +1,28 @@
+body{
+    background-color: lightslategray;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+#cardbody{
+    background-color: rgba(184, 167, 167, 0.788);
+    height:80px;
+    padding: 5px;
+}
+
+#dislike{
+    float:right;
+    height:fit-content;
+    width: 40px;
+    background-color: gray;
+    border-radius: 4%;
+    
+}
+#like{
+    float:left;
+    height: fit-content;
+    width: 40px;
+    background-color: gray;
+}
